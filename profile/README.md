@@ -34,16 +34,6 @@ Our mission: **Create powerful tools and platforms accessible to everyone, witho
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
----
-
-## GitHub Stats
-
-![NovaCloud GitHub Stats](https://github-readme-stats.vercel.app/api?username=next-gendev\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=next-gendev\&layout=compact\&theme=dark)
-
----
-
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=next-gendev\&color=blue)
